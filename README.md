@@ -1,3 +1,4 @@
 # adventcode2016
 
-some codes in this folder was inspired from other coders solutions
+My advent code rank:
+![Alt text](https://image.ibb.co/mmegLb/rank.png "my Advent code rank for year 2016)
